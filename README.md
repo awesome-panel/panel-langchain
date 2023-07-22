@@ -1,20 +1,25 @@
 # ✨ panel-langchain 🦜️🔗
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/awesomepanel/panel-langchain?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/awesome-panel/panel-langchain?quickstart=1)
 
-We believe Panel
-provides some unique and powerful features for creating chat bots and AI agents in Python like
-async, streaming, jupyter notebook support, HoloViz integration and Ipywidgets integration. We want
-to make it easy to use Panel and LangChain to build AI tools and apps.
+[Panel](https://panel.holoviz.org/) provides some unique and powerful features for creating chat
+bots and AI agents in Python.
 
-This repository contains reference implementations of various LangChain agents as Panel apps.
+We want to make it easy to use [Panel](https://panel.holoviz.org/) and
+[LangChain](https://python.langchain.com/docs/get_started/introduction.html) to build AI tools and
+apps.
+
+This repository contains reference implementations of various LangChain bots and agents as Panel
+apps.
 
 Check out the [examples](/examples) folder.
 
-Currently our examples are aligned with the
-[langchainai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent) examples.
-
 THIS PROJECT IS CURRENTLY JUST AN IDEA.
+
+## 👍 Credits
+
+Currently our examples are highly inspired by and aligned with the
+[langchainai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent) examples.
 
 s## 🚀 Get started in under a minute
 
