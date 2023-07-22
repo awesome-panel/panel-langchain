@@ -19,7 +19,7 @@
       },
     // Use 'forwardPorts' to make a list of ports inside the container available locally.
     "forwardPorts": [
-        5006, 5007, 8888
+        5006, 8888
     ],
     // Use 'postCreateCommand' to run commands after the container is created.
     // Install app dependencies.
@@ -27,7 +27,7 @@
     // Use 'postAttachCommand' to run commands after a tool has attached to the container.
     // Start the app.
     "postAttachCommand": {
-        "server": "panel serve apps/app.py --autoreload --port 5007 --address 0.0.0.0"
+        "server": "panel serve apps/app.py --autoreload --port 5006"
     },
     "portsAttributes": {
         "5007": {
