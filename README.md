@@ -1,34 +1,27 @@
-# ✨ panel-langchain
+# ✨ panel-langchain 🦜️🔗
 
-We want to
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/awesomepanel/panel-langchain?quickstart=1)
 
-- INSERT THE WHY
+We believe Panel
+provides some unique and powerful features for creating chat bots and AI agents in Python like
+async, streaming, jupyter notebook support, HoloViz integration and Ipywidgets integration. We want
+to make it easy to use Panel and LangChain to build AI tools and apps.
 
-We provide
+This repository contains reference implementations of various LangChain agents as Panel apps.
 
-- INSERT THE WHAT
+Check out the [examples](/examples) folder.
 
-You can install and use the package as simple as.
+Currently our examples are aligned with the
+[langchainai/streamlit-agent](https://github.com/langchain-ai/streamlit-agent) examples.
 
-```bash
-pip install panel-langchain
-```
+THIS PROJECT IS CURRENTLY JUST AN IDEA.
 
-```python
-import panel_langchain
-INSERT A SHORT EXAMPLE
-```
-
-![Project Intro](assets/videos/project-intro.gif)
-
-REPLACE THE INTRO VIDEO
-
-## 🚀 Get started in under a minute
+s## 🚀 Get started in under a minute
 
 Install `panel-langchain` including the *`examples` dependencies*.
 
 ```bash
-pip install  panel-langchain[examples]
+pip install panel-langchain[examples]
 ```
 
 Explore the sample apps
